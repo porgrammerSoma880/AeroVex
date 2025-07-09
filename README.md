@@ -115,11 +115,12 @@ python3 main.py
 Enter your name: Tawhid
 Enter a city name to check its Air Quality: London
 
-Amount of pm10 in air: concentration = 15.32, aqi = 41
-Amount of co in air: concentration = 0.7, aqi = 8
+Amount of CO in air: concentration = 120.7, aqi = 1
+Amount of NO2 in air: concentration = 23.86, aqi = 29
+Amount of O3 in air: concentration = 62.22, aqi = 60
 ...
 
-Overall AQI for London is: 56
+Overall AQI for London is: 60
 
 Today, the air quality in London is Moderate.
 Don't worry, but always remember to Stay safe!
